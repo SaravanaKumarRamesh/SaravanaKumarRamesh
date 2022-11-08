@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaravanaKumarRamesh
-- 👀 I’m interested in Data Engineering, Data Anlaysis
-- 🌱 I’m currently learning Pyspark,Databricks, Azure and Python
+- 👀 I’m interested in Azure Data Engineering, Data Anlaysis, Data Mining, Data Cleaning
+- 🌱 I’m currently learning Pyspark,Databricks,Azure, SQL and Python
 - 💞️ I’m looking to collaborate on Azure Data Engineering and Big data projects
 - 📫 How to reach me saravanasaran.sk@gmail.com
 
